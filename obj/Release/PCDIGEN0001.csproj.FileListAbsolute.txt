@@ -1,0 +1,14 @@
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN001\bin\Release\PCDIGEN0001.dll
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN001\bin\Release\PCDIGEN0001.pdb
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN001\bin\Release\RijndaelEncryptor.dll
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN001\bin\Release\RijndaelEncryptor.pdb
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN001\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN001\obj\Release\PCDIGEN0001.dll
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN001\obj\Release\PCDIGEN0001.pdb
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN0001\bin\Release\PCDIGEN0001.dll
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN0001\bin\Release\PCDIGEN0001.pdb
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN0001\bin\Release\RijndaelEncryptor.dll
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN0001\bin\Release\RijndaelEncryptor.pdb
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN0001\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN0001\obj\Release\PCDIGEN0001.dll
+C:\Users\fpineda\Documents\Visual Studio 2008\Projects\PCDIGEN0001\obj\Release\PCDIGEN0001.pdb
